@@ -1,0 +1,12 @@
+\section{Cấu trúc báo cáo}
+
+Báo cáo được tổ chức thành [Số chương] chương như sau:
+
+\begin{itemize}
+  \item Chương 1: Giới thiệu đề tài, nêu lý do, mục tiêu và phạm vi nghiên cứu trong lĩnh vực Logistic.
+  \item Chương 2: Tổng quan về các công nghệ phát triển ứng dụng đa nền tảng và thuật toán tối ưu ACO trong Logistic.
+  \item Chương 3: Mô tả chi tiết thiết kế hệ thống, kiến trúc phần mềm và quy trình hoạt động của ứng dụng Logistic.
+  \item Chương 4: Phân tích, lựa chọn công nghệ và phương pháp phát triển ứng dụng (dành cho giai đoạn triển khai).
+  \item Chương 5: Trình bày kết quả thử nghiệm, đánh giá hiệu quả thuật toán ACO và hiệu năng ứng dụng.
+  \item Chương 6: Tổng kết các kết quả đã đạt được, những hạn chế và đề xuất hướng phát triển tiếp theo.
+\end{itemize}

@@ -1,13 +1,14 @@
+// backend/src/modules/route/route.controller.ts
 import { Controller, Post, Body } from '@nestjs/common';
-import { GeneticAlgorithmService } from './genetic-algorithm.service';
-import { Location } from './genetic-algorithm.service';
+import { LocationDto } from './dto/location.dto';
+import { RouteService } from './route.service';
 
 @Controller('route')
 export class RouteController {
-  constructor(private readonly gaService: GeneticAlgorithmService) {}
+  constructor(private readonly routeService: RouteService) {}
 
   @Post('optimize')
-  async optimizeRoute(@Body() locations: Location[]): Promise<Location[]> {
-    return this.gaService.findOptimalRoute(locations);
+  async optimizeRoute(@Body() locations: LocationDto[]) {
+    return this.routeService.optimizeRoute(locations);
   }
-} 
+}
