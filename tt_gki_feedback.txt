@@ -1,0 +1,8 @@
+chưa đủ để tính contribution 
+nghiên cứu áp dụng thuật toán NPH, chứ thuật toán AL chưa phù hợp
+nghiên cứu áp dụng thêm machine learning, ng dùng sẽ cần phải nhiều lần truy cập 
+(kiểu chạy nhiều lần) thì mình mới đưa ra được lộ trình chính xác nhất cho người dùng 
+
+Cái vấn đề nó là gì? 
+Mình phải đưa ra được cái sản phẩm nó thật sự hiệu quả 
+Em tự tạo ra thuật toán à hay em apply thư viện vào? 
